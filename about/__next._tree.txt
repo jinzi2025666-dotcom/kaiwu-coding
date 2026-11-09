@@ -1,0 +1,6 @@
+:HL["/kaiwu-coding/_next/static/chunks/16hr-5zqkh0an.css","style"]
+:HL["/kaiwu-coding/_next/static/chunks/3y-rwcnu34n5j.css","style"]
+:HL["/kaiwu-coding/_next/static/media/dda1c1a49a80b437-s.p.28uqmbric7ahc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
+0:{"b":"QPKDPOQLTC1xfvO0iqcDB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
